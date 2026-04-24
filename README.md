@@ -2,7 +2,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-v14+-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Zero Dependencies](https://img.shields.io/badge/dependencies-zero-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/license-ISC-blue?style=flat-square)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)
 
 Утилита командной строки для пакетной обработки WebP-изображений: извлечение цен из имён файлов, массовое переименование по SKU и генерация JSON-каталога товаров с реалистичными датами публикаций.
 
@@ -174,4 +174,4 @@ logs/run_2026-04-24_11-00-00.log
 
 ## Лицензия
 
-ISC
+Apache-2.0
