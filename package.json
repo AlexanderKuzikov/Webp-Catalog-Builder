@@ -1,11 +1,14 @@
 {
-  "name": "webp-catalog-builder",
+  "name": "webp-image-resizer",
   "version": "1.0.0",
-  "description": "Zero-dependency CLI tool for batch processing WebP images, price extraction, SKU generation, and JSON catalog building with randomized publication dates.",
+  "description": "CLI tool for recursive WebP conversion and resizing with configurable width and quality.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
 }

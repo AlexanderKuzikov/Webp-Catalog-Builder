@@ -1,0 +1,11 @@
+{
+  "name": "webp-catalog-builder",
+  "version": "1.0.0",
+  "description": "Zero-dependency CLI tool for batch processing WebP images, price extraction, SKU generation, and JSON catalog building with randomized publication dates.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
