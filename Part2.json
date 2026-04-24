@@ -1,0 +1,74 @@
+[
+  {
+    "sku": "10205",
+    "name_line1": "Букет 205",
+    "regular_price": 2400,
+    "category_price": "до 2500 руб.",
+    "category_size": "Средний",
+    "date_created": "2024-10-02T16:42:38"
+  },
+  {
+    "sku": "10206",
+    "name_line1": "Букет 206",
+    "regular_price": 4000,
+    "category_price": "от 2500 до 5000 руб.",
+    "category_size": "Средний",
+    "date_created": "2024-10-02T17:02:36"
+  },
+  {
+    "sku": "10207",
+    "name_line1": "Букет 207",
+    "regular_price": 3300,
+    "category_price": "от 2500 до 5000 руб.",
+    "category_size": "Средний",
+    "date_created": "2024-10-02T17:26:35"
+  },
+  {
+    "sku": "10208",
+    "name_line1": "Букет 208",
+    "regular_price": 5050,
+    "category_price": "от 5000 до 7500 руб.",
+    "category_size": "Средний",
+    "date_created": "2024-10-02T17:31:34"
+  },
+  {
+    "sku": "10209",
+    "name_line1": "Букет 209",
+    "regular_price": 3100,
+    "category_price": "от 2500 до 5000 руб.",
+    "category_size": "Средний",
+    "date_created": "2024-10-02T17:32:16"
+  },
+  {
+    "sku": "10210",
+    "name_line1": "Букет 210",
+    "regular_price": 1970,
+    "category_price": "до 2500 руб.",
+    "category_size": "Средний",
+    "date_created": "2024-10-02T17:44:58"
+  },
+  {
+    "sku": "10211",
+    "name_line1": "Букет 211",
+    "regular_price": 3280,
+    "category_price": "от 2500 до 5000 руб.",
+    "category_size": "Средний",
+    "date_created": "2024-10-02T18:17:36"
+  },
+  {
+    "sku": "10212",
+    "name_line1": "Букет 212",
+    "regular_price": 2570,
+    "category_price": "от 2500 до 5000 руб.",
+    "category_size": "Средний",
+    "date_created": "2024-10-02T18:43:53"
+  },
+  {
+    "sku": "10213",
+    "name_line1": "Букет 213",
+    "regular_price": 2450,
+    "category_price": "до 2500 руб.",
+    "category_size": "Средний",
+    "date_created": "2024-10-02T18:59:38"
+  }
+]
